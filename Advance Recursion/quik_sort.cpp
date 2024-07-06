@@ -1,4 +1,6 @@
 /*
+
+
 Problem statement
 Given the 'start' and the 'end'' positions of the array 'input'. Your task is to sort the elements between 'start' and 'end' using quick sort.
 
@@ -20,6 +22,9 @@ Sample Output 2 :
 Constraints :
 1 <= N <= 10^3
 0 <= input[i] <= 10^9
+
+
+
 */
 
 int partition(int*input,int si,int ei){
